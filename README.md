@@ -6,6 +6,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0206-reverse-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/1585-the-kth-factor-of-n) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
