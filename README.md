@@ -14,10 +14,15 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0031-next-permutation) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
