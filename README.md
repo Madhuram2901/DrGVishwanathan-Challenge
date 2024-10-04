@@ -25,4 +25,16 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0412-fizz-buzz) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
