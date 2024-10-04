@@ -36,6 +36,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0412-fizz-buzz) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1585-the-kth-factor-of-n](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/1585-the-kth-factor-of-n) |
 ## String
 |  |
 | ------- |
@@ -52,4 +53,8 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/1603-running-sum-of-1d-array) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
