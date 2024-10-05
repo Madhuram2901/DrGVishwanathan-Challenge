@@ -6,6 +6,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -64,5 +65,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
