@@ -6,6 +6,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0234-palindrome-linked-list) |
@@ -18,6 +19,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0908-middle-of-the-linked-list) |
 ## Array
@@ -37,6 +39,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
 | ------- |
