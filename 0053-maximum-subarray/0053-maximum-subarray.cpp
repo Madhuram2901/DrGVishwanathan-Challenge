@@ -8,9 +8,6 @@ class Solution {
             Max = max(nums[i], Max+nums[i]);
             Sum = max(Sum, Max);
         }
-        if(Max < 0){
-            Max = 0;
-        }
         return Sum;
     }
 };
