@@ -29,6 +29,7 @@
 | [0001-two-sum](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0053-maximum-subarray) |
 | [1603-running-sum-of-1d-array](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/1791-richest-customer-wealth) |
 ## Greedy
@@ -79,4 +80,12 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0234-palindrome-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
