@@ -35,6 +35,7 @@
 | [0031-next-permutation](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0169-majority-element) |
+| [0485-max-consecutive-ones](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/1791-richest-customer-wealth) |
