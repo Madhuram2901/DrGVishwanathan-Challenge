@@ -36,6 +36,7 @@
 | [0053-maximum-subarray](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/1603-running-sum-of-1d-array) |
@@ -52,11 +53,13 @@
 | [0141-linked-list-cycle](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0412-fizz-buzz) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1585-the-kth-factor-of-n](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/1585-the-kth-factor-of-n) |
@@ -105,6 +108,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -113,4 +117,9 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
