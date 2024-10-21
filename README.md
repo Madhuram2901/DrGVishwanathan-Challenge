@@ -35,6 +35,7 @@
 | [0031-next-permutation](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0485-max-consecutive-ones) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0152-maximum-product-subarray) |
 ## Sorting
 |  |
 | ------- |
