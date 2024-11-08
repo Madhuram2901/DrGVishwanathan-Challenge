@@ -24,6 +24,7 @@
 | [0141-linked-list-cycle](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0908-middle-of-the-linked-list) |
 ## Array
 |  |
@@ -38,6 +39,7 @@
 | [0152-maximum-product-subarray](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/Madhuram2901/DrGVishwanathan-Challenge/tree/master/1603-running-sum-of-1d-array) |
